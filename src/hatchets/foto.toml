@@ -1,0 +1,134 @@
+[site]
+title = "Axe Pictures"
+subtitle = "Hatchets"
+description = "by Axe Barbie"
+author = "Axe Barbie"
+logo = "../images/axe.svg"
+
+[[site.icons]]
+icon = "../images/takemymoney.svg"
+link = "https://www.ebay.com/usr/axebarbie"
+label = "View eBay store"
+
+[[site.nav]]
+text = "Single Bits"
+link = "../single-bits"
+label = "View single bits"
+
+[[site.nav]]
+text = "Boy's Axes"
+link = "../boys-axes"
+label = "View boy's axes"
+
+[[site.nav]]
+text = "Hatchets"
+link = "../hatchets"
+label = "View hatchets"
+
+[[site.nav]]
+text = "Double Bits"
+link = "../double-bits"
+label = "View double bits"
+
+[image]
+thumbnailWidth = 640
+originalWidth = 0
+
+[layout]
+minColumn = 1
+maxColumn = 3
+minWidth = 200
+
+[[section]]
+title = "Victor Tool Co. WOODMAN'S PAL [LC-14-B]"
+text = "1940's - 1¼ lb"
+slug = "woodmans-pal"
+folder = "photos/woodmans-pal"
+ascending = true
+
+[[section]]
+title = "True Temper TOMMY AXE"
+text = "1940's - 1¾ lb"
+slug = "tommy-axe"
+folder = "photos/tommy-axe"
+ascending = true
+
+[[section]]
+title = "Marshall Wells ZENITH"
+text = "1915 - 1¼ lb"
+slug = "zenith-hatchet2"
+folder = "photos/zenith-hatchet2"
+ascending = true
+
+[[section]]
+title = "Marshall Wells NORTHERN KING"
+text = "1930's - 1¼ lb"
+slug = "northern-king-hatchet"
+folder = "photos/northern-king-hatchet"
+ascending = true
+
+[[section]]
+title = "Marshall Wells ZENITH"
+text = "1940's - 1¾ lb"
+slug = "zenith-hatchet"
+folder = "photos/zenith-hatchet"
+ascending = true
+
+[[section]]
+title = "Shapleigh Hardware Co. DIAMOND EDGE SPORT AXE"
+text = "1920's - 1 lb"
+slug = "bird-dog"
+folder = "photos/bird-dog"
+ascending = true
+
+[[section]]
+title = "Council Tool WOOD-CRAFT CAMP CARVER"
+text = "2021 - 1¾ lb"
+slug = "camp-carver"
+folder = "photos/camp-carver"
+ascending = true
+
+[[section]]
+title = "Marbles MR701SB CAMP AXE"
+text = "2021 - 1¾ lb"
+slug = "marbles-mr701sb"
+folder = "photos/marbles-mr701sb"
+ascending = true
+
+[[section]]
+title = "Unknown"
+text = "1930's German or Swedish - 1¾ lb"
+slug = "german-hatchet"
+folder = "photos/german-hatchet"
+ascending = true
+
+[[section]]
+title = "Plumb"
+text = "1930's - 1¼ lb"
+slug = "plumb-hatchet"
+folder = "photos/plumb-hatchet"
+ascending = true
+
+[[section]]
+title = "Unknown"
+text = "1940's - 1 lb"
+slug = "unknown-hatchet"
+folder = "photos/unknown-hatchet"
+ascending = true
+
+[[section]]
+title = "Unknown"
+text = "1960's Vietnam Era - 1¼ lb"
+slug = "red-hatchet"
+folder = "photos/red-hatchet"
+ascending = true
+
+[[section]]
+title = "Bridgeport BOY SCOUTS OF AMERICA"
+text = "1930's - 1¼ lb"
+slug = "bridgeport-bsa"
+folder = "photos/bridgeport-bsa"
+ascending = true
+
+[others]
+folders = [ "photos" ]
