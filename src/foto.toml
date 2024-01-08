@@ -34,8 +34,8 @@ thumbnailWidth = 640
 originalWidth = 0
 
 [layout]
-minColumn = 1
-maxColumn = 3
+minColumn = 3
+maxColumn = 4
 minWidth = 200
 
 [others]
