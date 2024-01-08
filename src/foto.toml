@@ -1,0 +1,42 @@
+[site]
+title = "Axe Pictures"
+description = "by Axe Barbie"
+author = "Axe Barbie"
+logo = "images/axe.svg"
+
+[[site.icons]]
+icon = "images/takemymoney.svg"
+link = "https://www.ebay.com/usr/axebarbie"
+label = "View eBay store"
+
+[[site.nav]]
+text = "Single Bits"
+link = "single-bits"
+label = "View single bits"
+
+[[site.nav]]
+text = "Boy's Axes"
+link = "boys-axes"
+label = "View boy's axes"
+
+[[site.nav]]
+text = "Hatchets"
+link = "hatchets"
+label = "View hatchets"
+
+[[site.nav]]
+text = "Double Bits"
+link = "double-bits"
+label = "View double bits"
+
+[image]
+thumbnailWidth = 640
+originalWidth = 0
+
+[layout]
+minColumn = 1
+maxColumn = 3
+minWidth = 200
+
+[others]
+folders = [ "css", "images" ]
