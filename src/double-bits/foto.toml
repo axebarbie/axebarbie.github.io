@@ -1,0 +1,127 @@
+[site]
+title = "Axe Pictures"
+subtitle = "Double Bits"
+description = "by Axe Barbie"
+author = "Axe Barbie"
+logo = "../images/axe.svg"
+
+[[site.icons]]
+icon = "../images/takemymoney.svg"
+link = "https://www.ebay.com/usr/axebarbie"
+label = "View eBay store"
+
+[[site.nav]]
+text = "Single Bits"
+link = "../single-bits"
+label = "View single bits"
+
+[[site.nav]]
+text = "Boy's Axes"
+link = "../boys-axes"
+label = "View boy's axes"
+
+[[site.nav]]
+text = "Hatchets"
+link = "../hatchets"
+label = "View hatchets"
+
+[[site.nav]]
+text = "Double Bits"
+link = "../double-bits"
+label = "View double bits"
+
+[image]
+thumbnailWidth = 640
+originalWidth = 0
+
+[layout]
+minColumn = 1
+maxColumn = 3
+minWidth = 200
+
+[[section]]
+title = "Morley-Murphy Hdwe. Co. WEDGEWAY"
+text = "1920's - 3½ lb"
+slug = "wedgeway"
+folder = "photos/wedgeway"
+ascending = true
+
+[[section]]
+title = "Sager CHEMICAL AXE"
+text = "1941 - 3½ lb"
+slug = "sager-1941"
+folder = "photos/sager-1941"
+ascending = true
+
+[[section]]
+title = "M.W.H. Co. HAND MADE"
+text = "1890's - 3½ lb"
+slug = "hand-made"
+folder = "photos/hand-made"
+ascending = true
+
+[[section]]
+title = "Lakeside"
+text = "1920's - 3½ lb"
+slug = "lakeside"
+folder = "photos/lakeside"
+ascending = true
+
+[[section]]
+title = "Sager CHEMICAL AXE"
+text = "1929 - 3½ lb"
+slug = "sager-1928"
+folder = "photos/sager-1928"
+ascending = true
+
+[[section]]
+title = "True Temper FLINT EDGE"
+text = "1950's - 3½ lb"
+slug = "flint-edge"
+folder = "photos/flint-edge"
+ascending = true
+
+[[section]]
+title = "Gambles ARTISAN"
+text = "1920's - 3 lb"
+slug = "artisan"
+folder = "photos/artisan"
+ascending = true
+
+[[section]]
+title = "C.M. McCLUNG"
+text = "1890's - 3½ lb"
+slug = "cm-mcclung"
+folder = "photos/cm-mcclung"
+ascending = true
+
+[[section]]
+title = "Warren Axe & Tool Co. SAGER"
+text = "1950 - 3 lb"
+slug = "sager-1950"
+folder = "photos/sager-1950"
+ascending = true
+
+[[section]]
+title = "Unknown"
+text = "1930's - 3½ lb"
+slug = "unknown-double-bit"
+folder = "photos/unknown-double-bit"
+ascending = true
+
+[[section]]
+title = "Sager CHEMICAL AXE"
+text = "1945 - 4 lb"
+slug = "sager-1945"
+folder = "photos/sager-1945"
+ascending = true
+
+[[section]]
+title = "True Temper RED WARRIOR"
+text = "1950's - 3½ lb"
+slug = "red-warrior"
+folder = "photos/red-warrior"
+ascending = true
+
+[others]
+folders = [ "photos" ]
