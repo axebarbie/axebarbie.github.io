@@ -1,0 +1,127 @@
+[site]
+title = "Axe Pictures"
+subtitle = "Boy's Axes"
+description = "by Axe Barbie"
+author = "Axe Barbie"
+logo = "../images/axe.svg"
+
+[[site.icons]]
+icon = "../images/takemymoney.svg"
+link = "https://www.ebay.com/usr/axebarbie"
+label = "View eBay store"
+
+[[site.nav]]
+text = "Single Bits"
+link = "../single-bits"
+label = "View single bits"
+
+[[site.nav]]
+text = "Boy's Axes"
+link = "../boys-axes"
+label = "View boy's axes"
+
+[[site.nav]]
+text = "Hatchets"
+link = "../hatchets"
+label = "View hatchets"
+
+[[site.nav]]
+text = "Double Bits"
+link = "../double-bits"
+label = "View double bits"
+
+[image]
+thumbnailWidth = 640
+originalWidth = 0
+
+[layout]
+minColumn = 1
+maxColumn = 3
+minWidth = 200
+
+[[section]]
+title = "Unknown"
+text = "1930's Slovenian - 2¼ lb - My personal user for house chores and camping"
+slug = "natasha"
+folder = "photos/natasha"
+ascending = true
+
+[[section]]
+title = "Plumb"
+text = "1950's - 2¼ lb"
+slug = "plumb-boys-axe"
+folder = "photos/plumb-boys-axe"
+ascending = true
+
+[[section]]
+title = "Marshall Wells Co. ZENITH"
+text = "1915 - 2¼ lb"
+slug = "zenith2"
+folder = "photos/zenith2"
+ascending = true
+
+[[section]]
+title = "Council Tool"
+text = "1990's - 2¼ lb"
+slug = "ct-boys-axe"
+folder = "photos/ct-boys-axe"
+ascending = true
+
+[[section]]
+title = "Warren"
+text = "1930's - 2¼ lb"
+slug = "warren"
+folder = "photos/warren"
+ascending = true
+
+[[section]]
+title = "E.C. Simmons KEEN KUTTER"
+text = "1900's - 2¼ lb"
+slug = "keen-kutter"
+folder = "photos/keen-kutter"
+ascending = true
+
+[[section]]
+title = "Marshall Wells ZENITH"
+text = "1930's - 2¼ lb"
+slug = "zenith"
+folder = "photos/zenith"
+ascending = true
+
+[[section]]
+title = "Council Tool WOOD-CRAFT PACK AXE"
+text = "2021 - 2 lb"
+slug = "pack-axe"
+folder = "photos/pack-axe"
+ascending = true
+
+[[section]]
+title = "ATCO Tool Works"
+text = "1920's - 2¼ lb"
+slug = "atco"
+folder = "photos/atco"
+ascending = true
+
+[[section]]
+title = "Unknown"
+text = "1930's German or Swedish - 3 lb"
+slug = "german-boys-axe"
+folder = "photos/german-boys-axe"
+ascending = true
+
+[[section]]
+title = "Craftsman"
+text = "1930's - 2¼ lb"
+slug = "craftsman"
+folder = "photos/craftsman"
+ascending = true
+
+[[section]]
+title = "Council Tool HUDSON BAY"
+text = "2021 - 1¾ lb"
+slug = "ct-hudson-bay"
+folder = "photos/ct-hudson-bay"
+ascending = true
+
+[others]
+folders = [ "photos" ]

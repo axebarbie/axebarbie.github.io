@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://cdn.skypack.dev; img-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com">
+
+        <title>{{ .Config.site.title }} {{ .Config.site.description }}</title>
+
+        <meta name="description" content="{{ .Config.site.description }}">
+        <meta name="author" content="{{ .Config.site.author }}">
+
+        <meta property="og:title" content="{{ .Config.site.title }}">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="/">
+        <meta property="og:description" content="{{ .Config.site.description }}">
+
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="icon" href="{{ .Config.site.logo }}">
+    </head>
+
+    <body>
+        <header>
+            <a href="." aria-label="View homepage">
+                <img loading="lazy" width="99" height="99" src="{{ .Config.site.logo }}" alt="View homepage" />
+            </a>
+
+            <div class="title">{{ .Config.site.title }}</div>
+            <div class="description">{{ .Config.site.description }}</div>
+
+            <nav>
+                {{- range $val := .Config.site.icons }}
+                    <a href="{{ $val.link }}" target="_blank" aria-label="{{ $val.label }}">
+                        <img loading="lazy" width="33" height="33" src="{{ $val.icon }}" alt="{{ $val.label }}" />
+                    </a>
+                {{- end }}
+                
+                <br />
+
+                {{- range $val := .Config.site.nav }}
+                    <a href="{{ $val.link }}" aria-label="{{ $val.label }}">{{ $val.text }}</a>
+                {{- end }}
+            </nav>
+        </header>
+
+        <footer>
+            <p>Maintained with ❤</p>
+        </footer>
+
+        <script type="module">
+            import { JustifiedGrid } from 'https://cdn.skypack.dev/@egjs/grid';
+
+            const options = {
+                gap: 8,
+                columnRange: [{{ .Config.layout.mincolumn }}, {{ .Config.layout.maxcolumn }}],
+                sizeRange: [{{ .Config.layout.minwidth }}, Infinity],
+            };
+
+            {{- range $section:= .Sections }}
+                (new JustifiedGrid(".section-images-{{ .Slug }}", options)).renderItems();
+            {{- end }}
+        </script>
+    </body>
+</html>
