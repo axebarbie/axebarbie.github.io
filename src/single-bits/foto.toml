@@ -40,6 +40,13 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "French BIGOIRE DAMASCUS"
+text = "1890's - 4.5 lb"
+slug = "bigoire2"
+folder = "photos/bigoire2"
+ascending = true
+
+[[section]]
 title = "H.S.B. & Co. OUR VERY BEST"
 text = "1920's - 3½ lb"
 slug = "ovb"
@@ -48,7 +55,7 @@ ascending = true
 
 [[section]]
 title = "French BIGOIRE DAMASCUS"
-text = "1890's - 4 lb"
+text = "1890's - 4.5 lb"
 slug = "bigoire"
 folder = "photos/bigoire"
 ascending = true

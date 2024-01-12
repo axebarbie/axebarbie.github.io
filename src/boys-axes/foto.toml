@@ -40,8 +40,22 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "Marshall Wells Co. ZENITH"
+text = "1915 - 2¼ lb"
+slug = "zenith3"
+folder = "photos/zenith3"
+ascending = true
+
+[[section]]
+title = "Council Tool"
+text = "1990's - 2¼ lb"
+slug = "ct-boys-axe2"
+folder = "photos/ct-boys-axe2"
+ascending = true
+
+[[section]]
 title = "Unknown"
-text = "1930's Slovenian - 2¼ lb - My personal user for house chores and camping"
+text = "1930's Slovenian - 2¼ lb"
 slug = "natasha"
 folder = "photos/natasha"
 ascending = true

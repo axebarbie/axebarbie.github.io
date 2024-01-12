@@ -42,6 +42,13 @@ minWidth = 200
 [[section]]
 title = "Morley-Murphy Hdwe. Co. WEDGEWAY"
 text = "1920's - 3½ lb"
+slug = "wedgeway2"
+folder = "photos/wedgeway2"
+ascending = true
+
+[[section]]
+title = "Morley-Murphy Hdwe. Co. WEDGEWAY"
+text = "1920's - 3½ lb"
 slug = "wedgeway"
 folder = "photos/wedgeway"
 ascending = true
