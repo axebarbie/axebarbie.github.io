@@ -51,29 +51,18 @@ header {
     font-family: 'Waiting for the Sunrise';
 }
 
-header .title {
-    font-size: 1.6em;
-    font-weight: bold;
-    line-height: 1.6em;
-}
-
-header .description {
-    font-size: 1em;
-    line-height: 1em;
-}
-
 header nav {
     margin: 1em 0;
 }
 
 header nav a {
-    margin: 0 0.35em;
-    font-size: 1.35em;
-    line-height: 1.3em;
+    margin: 0 0.5em;
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 .section {
-    margin-top: 3em;
+    margin-top: 0.5em;
 }
 
 .section-header-wrapper {
@@ -83,17 +72,11 @@ header nav a {
 
 .section-title {
     font-family: 'Waiting for the Sunrise';
-    font-size: 1.6em;
-    font-weight: medium;
-    line-height: 1.6em;
-}
-
-.section-description {
-    line-height: 1.4em;
+    font-size: 1.5em;
 }
 
 .section-images {
-    margin-top: 2em;
+    margin-top: 1em;
 }
 
 .section-image img {
@@ -101,14 +84,6 @@ header nav a {
 }
 
 footer {
-    text-align: center;
-    line-height: 1.6em;
-}
-
-footer p {
     font-size: 0.9em;
-}
-
-footer .foto_footer {
-    font-size: 0.8em;
+    text-align: center;
 }

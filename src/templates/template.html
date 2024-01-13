@@ -28,7 +28,7 @@
             <nav>
                 {{- range $val := .Config.site.icons }}
                     <a href="{{ $val.link }}" target="_blank" aria-label="{{ $val.label }}">
-                        <img loading="lazy" width="33" height="33" src="{{ $val.icon }}" alt="{{ $val.label }}" />
+                        <img loading="lazy" width="50" height="50" src="{{ $val.icon }}" alt="{{ $val.label }}" />
                     </a>
                 {{- end }}
                 
@@ -40,9 +40,7 @@
             </nav>
         </header>
 
-        <footer>
-            <p>Maintained with ❤</p>
-        </footer>
+        <footer>Maintained with ❤</footer>
 
         <script type="module">
             import { JustifiedGrid } from 'https://cdn.skypack.dev/@egjs/grid';
