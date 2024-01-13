@@ -22,11 +22,8 @@
     <body>
         <header>
             <a href="." aria-label="View homepage">
-                <img loading="lazy" width="99" height="99" src="{{ .Config.site.logo }}" alt="View homepage" />
+                <img loading="lazy" width="370" height="338" src="{{ .Config.site.logo }}" alt="View homepage" />
             </a>
-
-            <div class="title">{{ .Config.site.title }}</div>
-            <div class="description">{{ .Config.site.description }}</div>
 
             <nav>
                 {{- range $val := .Config.site.icons }}
