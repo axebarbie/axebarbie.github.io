@@ -30,6 +30,11 @@ text = "Double Bits"
 link = "../double-bits"
 label = "View double bits"
 
+[[site.nav]]
+text = "Power Tools"
+link = "../power-tools"
+label = "View power tools"
+
 [image]
 thumbnailWidth = 640
 originalWidth = 0
@@ -38,6 +43,13 @@ originalWidth = 0
 minColumn = 3
 maxColumn = 4
 minWidth = 200
+
+[[section]]
+title = "Kelly Perfect HAMMER HATCHET"
+text = "1930's dual stamped - 1¼ lb"
+slug = "hammer-hatchet"
+folder = "photos/hammer-hatchet"
+ascending = true
 
 [[section]]
 title = "Marshall Wells ZENITH"

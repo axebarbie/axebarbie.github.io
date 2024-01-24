@@ -1,0 +1,55 @@
+[site]
+title = "Axe Pictures"
+subtitle = "Hatchets"
+description = "by Axe Barbie"
+author = "Axe Barbie"
+logo = "../images/axebarbie.svg"
+
+[[site.icons]]
+icon = "../images/takemymoney.svg"
+link = "https://www.ebay.com/usr/axebarbie"
+label = "View eBay store"
+
+[[site.nav]]
+text = "Single Bits"
+link = "../single-bits"
+label = "View single bits"
+
+[[site.nav]]
+text = "Boy's Axes"
+link = "../boys-axes"
+label = "View boy's axes"
+
+[[site.nav]]
+text = "Hatchets"
+link = "../hatchets"
+label = "View hatchets"
+
+[[site.nav]]
+text = "Double Bits"
+link = "../double-bits"
+label = "View double bits"
+
+[[site.nav]]
+text = "Power Tools"
+link = "../power-tools"
+label = "View power tools"
+
+[image]
+thumbnailWidth = 640
+originalWidth = 0
+
+[layout]
+minColumn = 3
+maxColumn = 4
+minWidth = 200
+
+[[section]]
+title = "Sears, Roebuck and Co. CRAFTSMAN 1/2\" Sabre Saw"
+text = "1980's - MODEL NO. 315.172151"
+slug = "sears-sabre-saw"
+folder = "photos/sears-sabre-saw"
+ascending = true
+
+[others]
+folders = [ "photos" ]

@@ -30,6 +30,16 @@ text = "Double Bits"
 link = "../double-bits"
 label = "View double bits"
 
+[[site.nav]]
+text = "Power Tools"
+link = "../power-tools"
+label = "View power tools"
+
+[[site.nav]]
+text = "Power Tools"
+link = "../power-tools"
+label = "View power tools"
+
 [image]
 thumbnailWidth = 640
 originalWidth = 0
