@@ -50,10 +50,10 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
-title = "Sears, Roebuck and Co. CRAFTSMAN 1/2\" Sabre Saw"
-text = "1980's - MODEL NO. 315.172151"
-slug = "sears-sabre-saw"
-folder = "photos/sears-sabre-saw"
+title = "Marshall Wells Company: 1934 Complete General Catalog"
+text = "PDF & source scans - <a href=\"https://archive.org/details/marshall-wells-company-1934-complete-general-catalog\" >Archive.org</a> | <a href=\"magnet:?xt=urn:btih:PPHLKA3DJDKOARNR3FA2NHCAWHQZA5FQ&dn=Marshall-Wells%20Company%20-%201934%20Complete%20General%20Catalog&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce\">Magnet URI</a>"
+slug = "marshall-wells-1934"
+folder = "photos/marshall-wells-1934"
 ascending = true
 
 [others]

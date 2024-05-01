@@ -35,6 +35,11 @@ text = "Power Tools"
 link = "../power-tools"
 label = "View power tools"
 
+[[site.nav]]
+text = "Catalogs"
+link = "../catalogs"
+label = "View catalogs"
+
 [image]
 thumbnailWidth = 640
 originalWidth = 0
