@@ -50,13 +50,6 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
-title = "Marshall Wells ZENITH"
-text = "1915 - 1¼ lb"
-slug = "zenith-hatchet3"
-folder = "photos/zenith-hatchet3"
-ascending = true
-
-[[section]]
 title = "Victor Tool Co. WOODMAN'S PAL [LC-14-B]"
 text = "1940's - 1¼ lb"
 slug = "woodmans-pal"
@@ -68,13 +61,6 @@ title = "True Temper TOMMY AXE"
 text = "1940's - 1¾ lb"
 slug = "tommy-axe"
 folder = "photos/tommy-axe"
-ascending = true
-
-[[section]]
-title = "Marshall Wells ZENITH"
-text = "1915 - 1¼ lb"
-slug = "zenith-hatchet2"
-folder = "photos/zenith-hatchet2"
 ascending = true
 
 [[section]]
