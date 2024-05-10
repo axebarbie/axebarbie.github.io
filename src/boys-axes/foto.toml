@@ -67,6 +67,13 @@ folder = "photos/natasha"
 ascending = true
 
 [[section]]
+title = "Marshall Wells Co. ZENITH"
+text = "1915 - 2¼ lb"
+slug = "zenith2"
+folder = "photos/zenith2"
+ascending = true
+
+[[section]]
 title = "Plumb"
 text = "1950's - 2¼ lb"
 slug = "plumb-boys-axe"

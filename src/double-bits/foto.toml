@@ -60,6 +60,13 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "Marshall Wells ZENITH"
+text = "1912 - 3½ lb"
+slug = "zenith-double-bit"
+folder = "photos/zenith-double-bit"
+ascending = true
+
+[[section]]
 title = "Morley-Murphy Hdwe. Co. WEDGEWAY"
 text = "1920's - 3½ lb"
 slug = "wedgeway"

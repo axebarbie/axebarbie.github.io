@@ -50,6 +50,20 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "Unknown DAMASCUS"
+text = "Unknown - 1 lb"
+slug = "unknown-hatchet2"
+folder = "photos/unknown-hatchet2"
+ascending = true
+
+[[section]]
+title = "Marshall Wells Co. ZENITH"
+text = "1915 - 1 lb"
+slug = "zenith-hatchet2"
+folder = "photos/zenith-hatchet2"
+ascending = true
+
+[[section]]
 title = "Victor Tool Co. WOODMAN'S PAL [LC-14-B]"
 text = "1940's - 1¼ lb"
 slug = "woodmans-pal"
