@@ -40,16 +40,6 @@ text = "Catalogs"
 link = "../catalogs"
 label = "View catalogs"
 
-[[site.nav]]
-text = "Power Tools"
-link = "../power-tools"
-label = "View power tools"
-
-[[site.nav]]
-text = "Catalogs"
-link = "../catalogs"
-label = "View catalogs"
-
 [image]
 thumbnailWidth = 640
 originalWidth = 0
@@ -60,17 +50,17 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
-title = "Unknown"
-text = "1930's Slovenian - 2¼ lb"
-slug = "natasha"
-folder = "photos/natasha"
-ascending = true
-
-[[section]]
 title = "Marshall Wells Co. ZENITH"
 text = "1915 - 2¼ lb"
 slug = "zenith2"
 folder = "photos/zenith2"
+ascending = true
+
+[[section]]
+title = "Unknown"
+text = "1930's Slovenian - 2¼ lb"
+slug = "natasha"
+folder = "photos/natasha"
 ascending = true
 
 [[section]]
