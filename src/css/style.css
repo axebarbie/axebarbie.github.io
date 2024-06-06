@@ -20,6 +20,30 @@
     }
 }
 
+@media screen and (max-width: 400px) {
+    .section-title {
+        font-family: 'Tangerine';
+        font-size: 2.254rem;
+    }
+
+    header nav a {
+        margin: 0 0.5em;
+        font-size: 1.715rem;
+    }
+}
+
+@media screen and (min-width: 400px) {
+    .section-title {
+        font-family: 'Tangerine';
+        font-size: 2.548rem;
+    }
+
+    header nav a {
+        margin: 0 0.5em;
+        font-size: 1.96rem;
+    }
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -42,31 +66,25 @@ body {
 }
 
 #content {
-    margin: auto 4em;
+    margin: auto 3.5%;
 }
 
 header {
-    margin: 4em 4em 0 4em;
+    margin: 3.5% 3.5% 0;
     text-align: center;
     font-family: 'Waiting for the Sunrise';
+}
+
+header img {
+    max-width: 100%;
 }
 
 header nav {
     margin-top: 1em;
 }
 
-header nav a {
-    margin: 0 0.5em;
-    font-size: 1.96rem;
-}
-
 .section {
     margin-top: 1em;
-}
-
-.section-title {
-    font-family: 'Tangerine';
-    font-size: 2.548rem;
 }
 
 .section-images {
