@@ -20,7 +20,7 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media (screen and (max-width: 400px)) or ((orientation: portrait) and (any-pointer: coarse)) {
     .section-title {
         font-family: 'Tangerine';
         font-size: 2.254rem;
