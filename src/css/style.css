@@ -20,33 +20,30 @@
     }
 }
 
-@media (screen and (max-width: 400px)) or ((orientation: portrait) and (any-pointer: coarse)) {
-    .section-title {
-        font-family: 'Tangerine';
-        font-size: 2.254rem;
-    }
-
-    header nav a {
-        margin: 0 0.5em;
-        font-size: 1.715rem;
-    }
-}
-
-@media screen and (min-width: 400px) {
-    .section-title {
-        font-family: 'Tangerine';
-        font-size: 2.548rem;
-    }
-
-    header nav a {
-        margin: 0 0.5em;
-        font-size: 1.96rem;
-    }
-}
-
 * {
     margin: 0;
     padding: 0;
+}
+
+.section {
+    margin-top: 1em;
+}
+
+.section-images {
+    margin-top: 1em;
+}
+
+.section-image img {
+    width: 100%;
+}
+
+.section-title {
+    font-family: 'Tangerine';
+    font-size: 2.548rem;
+}
+
+#content {
+    margin: auto 3.5%;
 }
 
 a {
@@ -65,8 +62,9 @@ body {
     scroll-behavior: smooth;
 }
 
-#content {
-    margin: auto 3.5%;
+footer {
+    margin: 1em auto;
+    text-align: center;
 }
 
 header {
@@ -83,19 +81,19 @@ header nav {
     margin-top: 1em;
 }
 
-.section {
-    margin-top: 1em;
+header nav a {
+    margin: 0 0.5em;
+    font-size: 1.96rem;
 }
 
-.section-images {
-    margin-top: 1em;
-}
+@media (orientation: portrait) and (any-pointer: coarse) {
+    .section-title {
+        font-family: 'Tangerine';
+        font-size: 2.254rem;
+    }
 
-.section-image img {
-    width: 100%;
-}
-
-footer {
-    margin: 1em auto;
-    text-align: center;
+    header nav a {
+        margin: 0 0.5em;
+        font-size: 1.715rem;
+    }
 }
