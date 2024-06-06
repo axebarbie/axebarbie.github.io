@@ -57,35 +57,35 @@ folder = "photos/ovb"
 ascending = true
 
 [[section]]
-title = "French BIGOIRE DAMASCUS"
+title = "French Bigoire Damascus"
 text = "1890's - 4.5 lb"
 slug = "bigoire"
 folder = "photos/bigoire"
 ascending = true
 
 [[section]]
-title = "Hytest FORGED TOOLS"
+title = "Hytest Forged Tools"
 text = "1940's - 4 lb"
 slug = "hytest"
 folder = "photos/hytest"
 ascending = true
 
 [[section]]
-title = "Hartwell Brothers GREY GORGE"
+title = "Hartwell Brothers Grey Gorge"
 text = "1940's - 3½ lb"
 slug = "grey-gorge"
 folder = "photos/grey-gorge"
 ascending = true
 
 [[section]]
-title = "J.P.H. Co. EVERKEEN"
+title = "J.P.H. Co. Everkeen"
 text = "1890's - 3 lb"
 slug = "everkeen"
 folder = "photos/everkeen"
 ascending = true
 
 [[section]]
-title = "Marshall Wells NORTHERN KING"
+title = "Marshall Wells Northern King"
 text = "1930's - 3½ lb"
 slug = "northern-king"
 folder = "photos/northern-king"
@@ -106,14 +106,14 @@ folder = "photos/plumb5"
 ascending = true
 
 [[section]]
-title = "Council Tool SPLITTING AXE"
+title = "Council Tool Splitting Axe"
 text = "2022 - 5 lb"
 slug = "ct-splitting-axe"
 folder = "photos/ct-splitting-axe"
 ascending = true
 
 [[section]]
-title = "Council Tool VELVICUT AMERICAN FELLING AXE"
+title = "Council Tool Velvicut American Felling Axe"
 text = "2021 - 4 lb"
 slug = "velvicut-dayton"
 folder = "photos/velvicut-dayton"
@@ -127,14 +127,14 @@ folder = "photos/kelly"
 ascending = true
 
 [[section]]
-title = "Kelly Works FALLS CITY"
+title = "Kelly Works Falls City"
 text = "1920's - 3½ lb"
 slug = "falls-city"
 folder = "photos/falls-city"
 ascending = true
 
 [[section]]
-title = "Collins BONDED"
+title = "Collins Bonded"
 text = "1950's - 3½ lb"
 slug = "bonded"
 folder = "photos/bonded"
@@ -155,7 +155,7 @@ folder = "photos/dunlap"
 ascending = true
 
 [[section]]
-title = "Plumb DEPARTMENT OF WILDLIFE"
+title = "Plumb Department of Wildlife"
 text = "1930's - 3 lb"
 slug = "plumb-dow"
 folder = "photos/plumb-dow"
@@ -183,7 +183,7 @@ folder = "photos/unknown-dayton"
 ascending = true
 
 [[section]]
-title = "Council Tool NORTH CAROLINA"
+title = "Council Tool North Carolina"
 text = "1920's - 4 lb"
 slug = "ct-north-carolina"
 folder = "photos/ct-north-carolina"
@@ -211,21 +211,21 @@ folder = "photos/plumb"
 ascending = true
 
 [[section]]
-title = "Collins HOMESTEAD"
+title = "Collins Homestead"
 text = "1960's - 3 lb"
 slug = "homestead"
 folder = "photos/homestead"
 ascending = true
 
 [[section]]
-title = "Plumb AU-TO-GRAF"
+title = "Plumb Au-To-Graf"
 text = "1930's - 3 lb"
 slug = "autograf"
 folder = "photos/autograf"
 ascending = true
 
 [[section]]
-title = "Collins OLD TIMER"
+title = "Collins Old Timer"
 text = "1940's - 3½ lb single bit"
 slug = "old-timer"
 folder = "photos/old-timer"

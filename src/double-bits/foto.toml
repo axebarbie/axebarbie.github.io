@@ -50,28 +50,28 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
-title = "Marshall Wells ZENITH"
+title = "Marshall Wells Zenith"
 text = "1912 - 3½ lb"
 slug = "zenith-double-bit"
 folder = "photos/zenith-double-bit"
 ascending = true
 
 [[section]]
-title = "Morley-Murphy Hdwe. Co. WEDGEWAY"
+title = "Morley-Murphy Hdwe. Co. Wedgeway"
 text = "1920's - 3½ lb"
 slug = "wedgeway"
 folder = "photos/wedgeway"
 ascending = true
 
 [[section]]
-title = "Sager CHEMICAL AXE"
+title = "Sager Chemical Axe"
 text = "1941 - 3½ lb"
 slug = "sager-1941"
 folder = "photos/sager-1941"
 ascending = true
 
 [[section]]
-title = "M.W.H. Co. HAND MADE"
+title = "M.W.H. Co. Hand Made"
 text = "1890's - 3½ lb"
 slug = "hand-made"
 folder = "photos/hand-made"
@@ -85,35 +85,35 @@ folder = "photos/lakeside"
 ascending = true
 
 [[section]]
-title = "Sager CHEMICAL AXE"
+title = "Sager Chemical Axe"
 text = "1929 - 3½ lb"
 slug = "sager-1928"
 folder = "photos/sager-1928"
 ascending = true
 
 [[section]]
-title = "True Temper FLINT EDGE"
+title = "True Temper Flint Edge"
 text = "1950's - 3½ lb"
 slug = "flint-edge"
 folder = "photos/flint-edge"
 ascending = true
 
 [[section]]
-title = "Gambles ARTISAN"
+title = "Gambles Artisan"
 text = "1920's - 3 lb"
 slug = "artisan"
 folder = "photos/artisan"
 ascending = true
 
 [[section]]
-title = "C.M. McCLUNG"
+title = "C.M. McClung"
 text = "1890's - 3½ lb"
 slug = "cm-mcclung"
 folder = "photos/cm-mcclung"
 ascending = true
 
 [[section]]
-title = "Warren Axe & Tool Co. SAGER"
+title = "Warren Axe & Tool Co. Sager"
 text = "1950 - 3 lb"
 slug = "sager-1950"
 folder = "photos/sager-1950"
@@ -127,14 +127,14 @@ folder = "photos/unknown-double-bit"
 ascending = true
 
 [[section]]
-title = "Sager CHEMICAL AXE"
+title = "Sager Chemical Axe"
 text = "1945 - 4 lb"
 slug = "sager-1945"
 folder = "photos/sager-1945"
 ascending = true
 
 [[section]]
-title = "True Temper RED WARRIOR"
+title = "True Temper Red Warrior"
 text = "1950's - 3½ lb"
 slug = "red-warrior"
 folder = "photos/red-warrior"

@@ -50,63 +50,63 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
-title = "Unknown DAMASCUS"
+title = "Unknown Damascus"
 text = "Unknown - 1 lb"
 slug = "unknown-hatchet2"
 folder = "photos/unknown-hatchet2"
 ascending = true
 
 [[section]]
-title = "Marshall Wells Co. ZENITH"
+title = "Marshall Wells Co. Zenith"
 text = "1915 - 1 lb"
 slug = "zenith-hatchet2"
 folder = "photos/zenith-hatchet2"
 ascending = true
 
 [[section]]
-title = "Victor Tool Co. WOODMAN'S PAL [LC-14-B]"
+title = "Victor Tool Co. Woodman's Pal [LC-14-B]"
 text = "1940's - 1¼ lb"
 slug = "woodmans-pal"
 folder = "photos/woodmans-pal"
 ascending = true
 
 [[section]]
-title = "True Temper TOMMY AXE"
+title = "True Temper Tommy Axe"
 text = "1940's - 1¾ lb"
 slug = "tommy-axe"
 folder = "photos/tommy-axe"
 ascending = true
 
 [[section]]
-title = "Marshall Wells NORTHERN KING"
+title = "Marshall Wells Northern King"
 text = "1930's - 1¼ lb"
 slug = "northern-king-hatchet"
 folder = "photos/northern-king-hatchet"
 ascending = true
 
 [[section]]
-title = "Marshall Wells ZENITH"
+title = "Marshall Wells Zenith"
 text = "1940's - 1¾ lb"
 slug = "zenith-hatchet"
 folder = "photos/zenith-hatchet"
 ascending = true
 
 [[section]]
-title = "Shapleigh Hardware Co. DIAMOND EDGE SPORT AXE"
+title = "Shapleigh Hardware Co. Diamond Edge Sport Axe"
 text = "1920's - 1 lb"
 slug = "bird-dog"
 folder = "photos/bird-dog"
 ascending = true
 
 [[section]]
-title = "Council Tool WOOD-CRAFT CAMP CARVER"
+title = "Council Tool Wood-Craft Camp Carver"
 text = "2021 - 1¾ lb"
 slug = "camp-carver"
 folder = "photos/camp-carver"
 ascending = true
 
 [[section]]
-title = "Marbles MR701SB CAMP AXE"
+title = "Marbles MR701SB Camp Axe"
 text = "2021 - 1¾ lb"
 slug = "marbles-mr701sb"
 folder = "photos/marbles-mr701sb"
@@ -141,7 +141,7 @@ folder = "photos/red-hatchet"
 ascending = true
 
 [[section]]
-title = "Bridgeport BOY SCOUTS OF AMERICA"
+title = "Bridgeport Boy Scouts of America"
 text = "1930's - 1¼ lb"
 slug = "bridgeport-bsa"
 folder = "photos/bridgeport-bsa"

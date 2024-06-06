@@ -50,7 +50,7 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
-title = "Marshall Wells Co. ZENITH"
+title = "Marshall Wells Co. Zenith"
 text = "1915 - 2¼ lb"
 slug = "zenith2"
 folder = "photos/zenith2"
@@ -85,21 +85,21 @@ folder = "photos/warren"
 ascending = true
 
 [[section]]
-title = "E.C. Simmons KEEN KUTTER"
+title = "E.C. Simmons Keen Kutter"
 text = "1900's - 2¼ lb"
 slug = "keen-kutter"
 folder = "photos/keen-kutter"
 ascending = true
 
 [[section]]
-title = "Marshall Wells ZENITH"
+title = "Marshall Wells Zenith"
 text = "1930's - 2¼ lb"
 slug = "zenith"
 folder = "photos/zenith"
 ascending = true
 
 [[section]]
-title = "Council Tool WOOD-CRAFT PACK AXE"
+title = "Council Tool Wood-Craft Pack Axe"
 text = "2021 - 2 lb"
 slug = "pack-axe"
 folder = "photos/pack-axe"
@@ -127,7 +127,7 @@ folder = "photos/craftsman"
 ascending = true
 
 [[section]]
-title = "Council Tool HUDSON BAY"
+title = "Council Tool Hudson Bay"
 text = "2021 - 1¾ lb"
 slug = "ct-hudson-bay"
 folder = "photos/ct-hudson-bay"
