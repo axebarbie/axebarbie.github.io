@@ -77,6 +77,6 @@ header nav a {
 }
 
 footer {
-    margin-top: 1em;
+    margin: 1em auto;
     text-align: center;
 }
