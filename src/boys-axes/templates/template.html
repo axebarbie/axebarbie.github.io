@@ -43,13 +43,11 @@
         <div id="content">
             {{- range $section := .Sections }}
                 <div id="{{ .Slug }}" class="section">
-                    <div class="section-header-wrapper">
-                        <div class="section-title">
-                            <a href="#{{ .Slug }}" aria-label="View {{ .Title }}">{{ .Title }}</a>
-                        </div>
-
-                        {{ .Text }}
+                    <div class="section-title">
+                        <a href="#{{ .Slug }}" aria-label="View {{ .Title }}">{{ .Title }}</a>
                     </div>
+
+                    {{ .Text }}
 
                     <div class="section-images section-images-{{ .Slug }}">
                         {{- range .ImageSets }}                        
