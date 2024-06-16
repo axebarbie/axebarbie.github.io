@@ -50,6 +50,20 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "Vaughan & Bushnell Manufacturing Co. Value Brand"
+text = "1940's - 2¾ lb"
+slug = "vaughan"
+folder = "photos/vaughan"
+ascending = true
+
+[[section]]
+title = "Lakeside"
+text = "1920's - 2¼ lb"
+slug = "lakeside-boys-axe"
+folder = "photos/lakeside-boys-axe"
+ascending = true
+
+[[section]]
 title = "Marshall Wells Co. Zenith"
 text = "1915 - 2¼ lb"
 slug = "zenith2"

@@ -50,6 +50,13 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "Marshall Wells Zenith Cold Test"
+text = "1940's - 1¾ lb"
+slug = "zenith-hatchet3"
+folder = "photos/zenith-hatchet3"
+ascending = true
+
+[[section]]
 title = "Unknown Damascus"
 text = "Unknown - 1 lb"
 slug = "unknown-hatchet2"
@@ -85,7 +92,7 @@ folder = "photos/northern-king-hatchet"
 ascending = true
 
 [[section]]
-title = "Marshall Wells Zenith"
+title = "Marshall Wells Zenith Cold Test"
 text = "1940's - 1¾ lb"
 slug = "zenith-hatchet"
 folder = "photos/zenith-hatchet"

@@ -50,6 +50,13 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "Clark Witbeck Co. Dorpian"
+text = "1870 - 3 lb"
+slug = "dorpian"
+folder = "photos/dorpian"
+ascending = true
+
+[[section]]
 title = "H.S.B. & Co. Our Very Best"
 text = "1920's - 3½ lb"
 slug = "ovb"
@@ -120,7 +127,7 @@ folder = "photos/velvicut-dayton"
 ascending = true
 
 [[section]]
-title = "Kelly Axe Mfg Co."
+title = "Kelly Axe Mfg. Co."
 text = "1904 - 3 lb"
 slug = "kelly"
 folder = "photos/kelly"
