@@ -50,6 +50,13 @@ maxColumn = 4
 minWidth = 200
 
 [[section]]
+title = "Joseph Breck & Sons Breck's Victor"
+text = "Early 1900's - 2¾ lb"
+slug = "brecks"
+folder = "photos/brecks"
+ascending = true
+
+[[section]]
 title = "Vaughan & Bushnell Manufacturing Co. Value Brand"
 text = "1940's - 2¾ lb"
 slug = "vaughan"
