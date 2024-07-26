@@ -49,4 +49,11 @@ maxColumn = 4
 minWidth = 200
 
 [others]
-folders = [ "css", "images" ]
+folders = [ "css", "images", "photos" ]
+
+[[section]]
+title = "Engineered for Axe Women Custom WA165 Work Axe"
+text = "2024 - 4½ lb"
+slug = "axe-barbie"
+folder = "photos/axe-barbie"
+ascending = true

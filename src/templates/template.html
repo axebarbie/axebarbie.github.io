@@ -40,6 +40,22 @@
             </nav>
         </header>
 
+        <div id="content">
+            {{- range $section := .Sections }}
+                <div id="{{ .Slug }}" class="section">
+                    <div class="section-images section-images-{{ .Slug }}">
+                        {{- range .ImageSets }}                        
+                            <div>
+                                <a class="section-image" href="{{ $section.Folder }}/full/{{ .FileName }}" target="_blank" aria-label="View full resolution version of image {{ .FileName }}">
+                                    <img loading="lazy" width="{{ .ThumbnailSize.Width }}" src="{{ $section.Folder }}/thumbnail/{{ .FileName }}" alt="{{ .FileName }}" />
+                                </a>
+                            </div>
+                        {{- end }}
+                    </div>
+                </div>
+            {{- end }}
+        </div>
+
         <footer>Maintained with ❤</footer>
 
         <script type="module">
