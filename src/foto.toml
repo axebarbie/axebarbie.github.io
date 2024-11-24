@@ -5,9 +5,19 @@ author = "Axe Barbie"
 logo = "images/axebarbie.svg"
 
 [[site.icons]]
+icon = "images/instagram.svg"
+link = "https://instagram.com/axebarbie"
+label = "View Instagram profile"
+
+[[site.icons]]
 icon = "images/takemymoney.svg"
 link = "https://www.ebay.com/usr/axebarbie"
 label = "View eBay store"
+
+[[site.icons]]
+icon = "images/youtube.svg"
+link = "https://youtube.com/@axebarbie"
+label = "View YouTube channel"
 
 [[site.nav]]
 text = "Single Bits"
@@ -42,6 +52,7 @@ label = "View catalogs"
 [image]
 thumbnailWidth = 640
 originalWidth = 0
+compressQuality = 100
 
 [layout]
 minColumn = 3
