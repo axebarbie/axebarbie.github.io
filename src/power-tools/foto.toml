@@ -1,6 +1,6 @@
 [site]
 title = "Axe Pictures"
-subtitle = "Hatchets"
+subtitle = "Power Tools"
 description = "by Axe Barbie"
 author = "Axe Barbie"
 logo = "../images/axebarbie.svg"
@@ -49,6 +49,11 @@ label = "View power tools"
 text = "Catalogs"
 link = "../catalogs"
 label = "View catalogs"
+
+[[site.nav]]
+text = "Banjo Tabs"
+link = "../banjo"
+label = "View banjo tabs"
 
 [image]
 thumbnailWidth = 640

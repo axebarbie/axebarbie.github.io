@@ -1,0 +1,93 @@
+[site]
+title = "Axe Pictures"
+subtitle = "Banjo Tabs"
+description = "by Axe Barbie"
+author = "Axe Barbie"
+logo = "../images/axebarbie.svg"
+
+[[site.icons]]
+icon = "../images/instagram.svg"
+link = "https://instagram.com/axebarbie"
+label = "View Instagram profile"
+
+[[site.icons]]
+icon = "../images/takemymoney.svg"
+link = "https://www.ebay.com/usr/axebarbie"
+label = "View eBay store"
+
+[[site.icons]]
+icon = "../images/youtube.svg"
+link = "https://youtube.com/@axebarbie"
+label = "View YouTube channel"
+
+[[site.nav]]
+text = "Single Bits"
+link = "../single-bits"
+label = "View single bits"
+
+[[site.nav]]
+text = "Boy's Axes"
+link = "../boys-axes"
+label = "View boy's axes"
+
+[[site.nav]]
+text = "Hatchets"
+link = "../hatchets"
+label = "View hatchets"
+
+[[site.nav]]
+text = "Double Bits"
+link = "../double-bits"
+label = "View double bits"
+
+[[site.nav]]
+text = "Power Tools"
+link = "../power-tools"
+label = "View power tools"
+
+[[site.nav]]
+text = "Catalogs"
+link = "../catalogs"
+label = "View catalogs"
+
+[[site.nav]]
+text = "Banjo Tabs"
+link = "../banjo"
+label = "View banjo tabs"
+
+[image]
+thumbnailWidth = 640
+originalWidth = 0
+compressQuality = 100
+
+[layout]
+minColumn = 3
+maxColumn = 4
+minWidth = 200
+
+[[section]]
+title = "Cluck Old Hen"
+text = "Double C Modal (fCGCD) down 2 steps"
+slug = "cluck-old-hen"
+folder = "photos/cluck-old-hen"
+
+[[section]]
+title = "Darlin' Cory"
+text = "Double C Modal (fCGCD) down 2 steps"
+slug = "darlin-cory"
+folder = "photos/darlin-cory"
+
+[[section]]
+title = "Old Bangum (Wild Hog in the Woods)"
+text = "Double C Modal (fCGCD) down 2 steps"
+slug = "old-bangum"
+folder = "photos/old-bangum"
+
+[[section]]
+title = "Texas Rangers (German War)"
+text = "Double C Modal (fCGCD) down 2 steps"
+slug = "texas-rangers"
+folder = "photos/texas-rangers"
+
+[others]
+folders = [ "photos" ]
