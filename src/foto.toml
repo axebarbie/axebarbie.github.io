@@ -49,11 +49,6 @@ text = "Catalogs"
 link = "catalogs"
 label = "View catalogs"
 
-[[site.nav]]
-text = "Banjo Tabs"
-link = "banjo"
-label = "View banjo tabs"
-
 [image]
 thumbnailWidth = 640
 originalWidth = 0
